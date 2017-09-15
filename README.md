@@ -1,5 +1,6 @@
 # essai_markdown
 Exercice pratique dans le cadre du cours de Markdown OpenClassrooms
+
 # Ceci est un essai de l'application du language Markdown
 Il me semble important de tester tout d'abord l'usage des paragraphes
 
@@ -7,7 +8,7 @@ Est-ce que cela fonctionne correctement?
 
 
 ## Liste à puces 
-Je vais à présent essayer d'utilister une liste à puces
+Je vais à **présent** essayer d'utilister une *liste à puces*
 * première puce
 * seconde puce
 * troisième puce
