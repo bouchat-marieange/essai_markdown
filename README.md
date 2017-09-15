@@ -34,6 +34,24 @@ Voici un code en C :
 
 La fonctionn `printf()` permet d'afficher du texte
 
+## Des liens
+
+Et maintenant quelques liens en Markdown
+Le site de [Github](https://github.com) est bien pratique !
+Le site de [Google](https://www.google.be/) l'est tout autant !
+
+Et vous quel est votre site préféré ?
+
+## Des images
+
+On peut également intégré facilement des images en markdown. Il ne faut pas oublier le point d'exclamation devant les crochets.
+
+![I love coding](http://www.staugustinenj.org/school/classpages/electives/imagescomputer/i_love_coding_stickers-r88bb060c25a34dd2afb63307815f4b85_v9waf_8byvr_512.jpg)
+
+Un petite barre de séparation
+-------
+
+Et voici le mot de la fin ;)
 
 
 
