@@ -29,5 +29,11 @@ Voici un code en C :
         printf("Hello world!\n");
         return 0;
     }
+    
+## Du code dans un paragraphe
+
+La fonctionn `printf()` permet d'afficher du texte
+
+
 
 
