@@ -22,9 +22,12 @@ Je vais à **présent** essayer d'utilister une *liste à puces*
 >Un lanister paie toujours ses dettes!
 
 ## Un code source
-  int main()
+Voici un code en C :
+
+    int main()
     {
         printf("Hello world!\n");
         return 0;
     }
+
 
